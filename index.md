@@ -36,6 +36,15 @@ Mentor: Nebojsa Arsenovic
 
 ---
 
+## Publications
+
+Pavle Subotić, **Uroš Bojanić**, and Milan Stojić. 2022. *Statically Detecting Data Leakages in Data Science Code*. Proceedings of the 11th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis (SOAP '22), June 14, 2022, San Diego, CA, USA.
+<!---
+, 7 pages. <a href="https://doi.org/10.1145/nnnnnnn.nnnnnnn">https://doi.org/10.1145/nnnnnnn.nnnnnnn</a>
+--->
+
+---
+
 ## Summer schools
 
 <img style="height: 1.3em; vertical-align: middle !important;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQF6TmzLkch0dQ/company-logo_100_100/0/1561566354660?e=2147483647&v=beta&t=Whos3Xeb9VOrgyxcWr4bC9GnwFVrPWukoJoVWAkevz0"> **New York University** Artificial Intelligence School\
