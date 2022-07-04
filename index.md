@@ -18,6 +18,10 @@ Study programme: Computer Engineering and Informatics
 
 ## Internships
 
+🖥️ **Bloomberg**, London, U.K. (Jul 2022 - Oct 2022)\
+**Software Engineer Intern**\
+Mentor: Alex Ungurianu
+
 🤖 **Microsoft**, Belgrade, Serbia (Oct 2021 — Jan 2022)\
 **Machine Learning Research and Development Intern**\
 Mentor: Pavle Subotic
